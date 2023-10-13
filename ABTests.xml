@@ -28,7 +28,7 @@
  				"stay_cond":{"m3lvl":{"ge":1}},
  				"groups":
  					{
- 					"control": {"weight": 25, "params": {}},
+ 					"control": {"weight": 26, "params": {}},
  				   	"test": {"weight": 25, "params": {"AB_Cascade" : "test"}},
 				    "no_rm": {"weight": 25, "params": {"AB_Cascade" : "no_rm"}},
 					"chest": {"weight": 25, "params": {"AB_Cascade" : "chest"}}
